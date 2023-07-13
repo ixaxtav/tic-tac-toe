@@ -2,6 +2,8 @@
 
 This is a simple implementation of the classic game Tic Tac Toe using React. It allows two players to take turns marking X and O on a 3x3 grid, with the goal being to get three of their marks in a row, column, or diagonal.
 
+Demo: https://ixaxtav.github.io/tic-tac-toe/
+
 ## Prerequisites
 
 - Node.js
